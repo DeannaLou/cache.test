@@ -1,0 +1,25 @@
+{
+  "name": "cache.test",
+  "version": "1.0.0",
+  "description": "web 缓存",
+  "main": "cache.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeannaLou/cache.test.git"
+  },
+  "keywords": [
+    "cache"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeannaLou/cache.test/issues"
+  },
+  "homepage": "https://github.com/DeannaLou/cache.test#readme",
+  "dependencies": {
+    "js-md5": "~0.7.3"
+  }
+}
